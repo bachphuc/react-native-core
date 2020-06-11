@@ -1,0 +1,1 @@
+yarn add @bachphuc/react-native-core
